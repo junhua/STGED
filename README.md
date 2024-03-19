@@ -5,7 +5,7 @@ Dataset Link: [Download](https://drive.google.com/drive/folders/1c5mmlQCuu7r-z5K
 
 ## Citing STGED
 
-Please cite the following papers when using IPOD: 
+Please cite the following papers when using STGED: 
 
 ```
 @inproceedings{liu2024stged,
